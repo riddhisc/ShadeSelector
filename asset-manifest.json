@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/color-palette-generator/static/css/main.c1d1ebec.css",
-    "main.js": "/color-palette-generator/static/js/main.6828eb3c.js",
-    "static/js/488.b70f9f9e.chunk.js": "/color-palette-generator/static/js/488.b70f9f9e.chunk.js",
-    "index.html": "/color-palette-generator/index.html",
-    "main.c1d1ebec.css.map": "/color-palette-generator/static/css/main.c1d1ebec.css.map",
-    "main.6828eb3c.js.map": "/color-palette-generator/static/js/main.6828eb3c.js.map",
-    "488.b70f9f9e.chunk.js.map": "/color-palette-generator/static/js/488.b70f9f9e.chunk.js.map"
+    "main.css": "/ShadeSelector/static/css/main.c1d1ebec.css",
+    "main.js": "/ShadeSelector/static/js/main.ee94430d.js",
+    "static/js/488.b70f9f9e.chunk.js": "/ShadeSelector/static/js/488.b70f9f9e.chunk.js",
+    "index.html": "/ShadeSelector/index.html",
+    "main.c1d1ebec.css.map": "/ShadeSelector/static/css/main.c1d1ebec.css.map",
+    "main.ee94430d.js.map": "/ShadeSelector/static/js/main.ee94430d.js.map",
+    "488.b70f9f9e.chunk.js.map": "/ShadeSelector/static/js/488.b70f9f9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1d1ebec.css",
-    "static/js/main.6828eb3c.js"
+    "static/js/main.ee94430d.js"
   ]
 }
